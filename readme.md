@@ -40,7 +40,3 @@ Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa
 - Your testing code shall not require testing.
 
 - 200~OK is not always okay; Do not rely only on server status while testing, getting 200 status for an unauthorized API call is risking your software security.
-
-## Contributing
-
-See the [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) for details on how to contribute.
